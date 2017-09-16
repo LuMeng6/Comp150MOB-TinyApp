@@ -1,0 +1,24 @@
+README
+The Tiny App Project
+
+Tiny App: Annoying Doge
+Produced By: Lu Meng
+
+Overview
+In this tiny app, you will answer a question asked by Doge. Her response may be different (and annoying) according to your answer. 
+
+Usage Instructions
+Answer Doge's Yes/No questions by touching "YES" or "NO" button.
+
+Running Requirements
+Android 6.0 (Marshmallow)
+
+Documentation and Resources Used
+Android Studio
+
+What did I learn from developing this app?
+1. How to build a project in Android Studio;
+2. How to add layouts, widgets and images in the project;
+3. How to start a new activty on button click;
+4. How to build a activity that switchs screens;
+5. How to let the app support screens that have different sizes.
